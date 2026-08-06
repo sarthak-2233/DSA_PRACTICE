@@ -1,0 +1,51 @@
+#	LeetCode	Problem	Difficulty	Main Pattern
+1	206	Reverse Linked List	🟢 Easy	3 pointers
+2	876	Middle of the Linked List	🟢 Easy	Slow/Fast pointers
+3	141	Linked List Cycle	🟢 Easy	Floyd's algorithm
+4	21	Merge Two Sorted Lists	🟢 Easy	Dummy node + 2 pointers
+5	203	Remove Linked List Elements	🟢 Easy	Traversal
+6	83	Remove Duplicates from Sorted List	🟢 Easy	Pointer manipulation
+7	237	Delete Node in a Linked List	🟢 Easy	Node replacement
+8	160	Intersection of Two Linked Lists	🟢 Easy	Pointer switching
+9	19	Remove Nth Node From End of List	🟡 Medium	Fast/slow + dummy
+10	234	Palindrome Linked List	🟢 Easy	Middle + reverse
+11	328	Odd Even Linked List	🟡 Medium	Pointer rearrangement
+12	24	Swap Nodes in Pairs	🟡 Medium	Local reversal
+13	92	Reverse Linked List II	🟡 Medium	Sublist reversal
+14	61	Rotate List	🟡 Medium	Circular connection
+15	86	Partition List	🟡 Medium	Two dummy lists
+16	143	Reorder List	🟡 Medium	Split + reverse + merge
+17	142	Linked List Cycle II	🟡 Medium	Floyd + cycle entry
+18	2	Add Two Numbers	🟡 Medium	Carry + traversal
+19	445	Add Two Numbers II	🟡 Medium	Stack + linked list
+20	138	Copy List with Random Pointer	🟡 Medium	HashMap / interweaving
+21	1721	Swapping Nodes in a Linked List	🟡 Medium	Two pointers
+22	2130	Maximum Twin Sum of a Linked List	🟡 Medium	Half reverse
+23	234	Palindrome Linked List	🟢 Easy	Review
+24	82	Remove Duplicates from Sorted List II	🟡 Medium	Dummy + skipping
+25	147	Insertion Sort List	🟡 Medium	Insertion
+26	148	Sort List	🟡 Medium	Merge sort
+27	23	Merge k Sorted Lists	🔴 Hard	Heap / divide & conquer
+28	25	Reverse Nodes in k-Group	🔴 Hard	Group reversal
+29	430	Flatten a Multilevel Doubly Linked List	🟡 Medium	DFS + pointers
+30	708	Insert into a Sorted Circular Linked List	🟡 Medium	Circular pointers
+31	1019	Next Greater Node in Linked List	🟡 Medium	Monotonic stack
+32	1171	Remove Zero Sum Consecutive Nodes	🟡 Medium	Prefix sum + HashMap
+33	817	Linked List Components	🟡 Medium	Set + traversal
+34	725	Split Linked List in Parts	🟡 Medium	Length + partition
+35	1669	Merge In Between Linked Lists	🟡 Medium	Pointer reconnection
+36	109	Convert Sorted List to Binary Search Tree	🟡 Medium	Slow/Fast + recursion
+37	143	Reorder List	🟡 Medium	Review complex pattern
+38	146	LRU Cache	🟡 Medium	HashMap + Doubly LL
+39	707	Design Linked List	🟡 Medium	Data structure implementation
+40	641	Design Circular Deque	🟡 Medium	Circular linked structure
+41	1472	Design Browser History	🟡 Medium	Doubly linked list
+42	432	All O(1) Data Structure	🔴 Hard	HashMap + Doubly LL
+43	460	LFU Cache	🔴 Hard	HashMap + DLL
+44	2296	Design a Text Editor	🔴 Hard	Two linked structures
+45	430	Flatten Multilevel DLL	🟡 Medium	Review
+46	2807	Insert Greatest Common Divisors in Linked List	🟡 Medium	Traversal + insertion
+47	2487	Remove Nodes From Linked List	🟡 Medium	Monotonic stack
+48	2816	Double a Number Represented as a Linked List	🟡 Medium	Reverse + carry
+49	281	Zigzag Iterator	🟡 Medium	Multiple iterators
+50	382	Linked List Random Node	🟡 Medium	Reservoir sampling
